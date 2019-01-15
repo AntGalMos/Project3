@@ -1,0 +1,3 @@
+[submodule "SharedProject"]
+	path = SharedProject
+	url = https://github.com/AntGalMos/SharedProject
