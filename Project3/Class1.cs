@@ -8,5 +8,6 @@ namespace Project3
 {
     public class Class1
     {
+        public string feature1;
     }
 }
